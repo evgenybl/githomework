@@ -1,0 +1,48 @@
+2024-05-14 23:00 - Displaying main menu
+2024-05-14 23:00 - User chose to add a new item
+2024-05-14 23:00 - User chose category: Education
+2024-05-14 23:00 - Directory created successfully.
+2024-05-14 23:00 - User chose item type: file
+2024-05-14 23:00 - User entered filename: books.txt
+2024-05-14 23:00 - File created successfully.
+2024-05-14 23:00 - Displaying main menu
+2024-05-14 23:00 - User chose to add a new item
+2024-05-14 23:01 - User chose category: Development
+2024-05-14 23:01 - Directory created successfully.
+2024-05-14 23:01 - User chose item type: dir
+2024-05-14 23:01 - User entered directory name: projects
+2024-05-14 23:01 - Directory created successfully.
+2024-05-14 23:01 - Displaying main menu
+2024-05-14 23:01 - User chose to delete an item
+2024-05-14 23:01 - User chose category: Personal
+2024-05-14 23:01 - User entered item name: l
+2024-05-14 23:01 - Item not found.
+2024-05-14 23:01 - Displaying main menu
+2024-05-14 23:01 - User chose to add a new item
+2024-05-14 23:01 - User chose category: Personal
+2024-05-14 23:01 - Directory created successfully.
+2024-05-14 23:01 - User chose item type: file
+2024-05-14 23:01 - User entered filename: music
+2024-05-14 23:02 - User entered extension: mp3
+2024-05-14 23:02 - File created successfully.
+2024-05-14 23:02 - Displaying main menu
+2024-05-14 23:02 - User chose to add a new item
+2024-05-14 23:02 - User chose category: Personal
+2024-05-14 23:02 - Directory already exists.
+2024-05-14 23:02 - User chose item type: dir
+2024-05-14 23:02 - User entered directory name: modify.test
+2024-05-14 23:02 - Directory created successfully.
+2024-05-14 23:02 - Displaying main menu
+2024-05-14 23:02 - User chose to modify an item
+2024-05-14 23:02 - User chose category: Personal
+2024-05-14 23:02 - User entered item name: modify.test
+2024-05-14 23:02 - User entered confirmation: y
+2024-05-14 23:02 - User entered new item name: success
+2024-05-14 23:02 - Item modified successfully.
+2024-05-14 23:02 - Displaying main menu
+2024-05-14 23:03 - User chose to delete an item
+2024-05-14 23:03 - User chose category: Personal
+2024-05-14 23:03 - User entered item name: success
+2024-05-14 23:03 - User entered confirmation: y
+2024-05-14 23:03 - Item deleted successfully.
+2024-05-14 23:03 - Displaying main menu
